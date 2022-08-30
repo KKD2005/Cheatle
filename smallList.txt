@@ -1,0 +1,6 @@
+board
+bread
+blank
+bring
+brink
+blink
